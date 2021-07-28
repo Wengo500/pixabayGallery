@@ -14,9 +14,10 @@ export default memo(
   const dispatch = useDispatch()
   const [sortBy, setSortBy] = useState()
   const [inputTagRef, setInputTagRef] = useState('')
-  const filterCardsByTagName = () => 
-   jsonObj.filter(el => el.tags.includes(inputTagRef.toLowerCase())).sort((a, b) => a[sortBy] < b[sortBy] ? 1 : -1);
   
+  const filterCardsByTagName = () => 
+   jsonObj.filter(el => el.tags.includes(inputTagRef.toLowerCase())).sort((a, b) => a[sortBy] < b[sortBy] ? 1 : -1)
+   
   useEffect(() => {
     dispatch(getCard())
   }, [dispatch])

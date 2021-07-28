@@ -3,7 +3,11 @@ import './scss/header.scss';
 
 function Header({setSortBy, setInputTagRef}) {
   const inputTag = useRef();
-  const onButtonUp = () => setInputTagRef(inputTag.current.value);
+  const onButtonUp = () => {
+    setTimeout(()=>{
+      setInputTagRef(inputTag.current.value)
+    },300)
+  };
   
   return (
     <div className="header">

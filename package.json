@@ -2,7 +2,7 @@
     "name": "ufo-gallery",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Wengo500/pixabayGallery.git",
+    "homepage": "https://wengo500.github.io/pixabayGallery/",
     "dependencies": {
         "@material-ui/core": "^4.12.2",
         "@material-ui/icons": "^4.11.2",
