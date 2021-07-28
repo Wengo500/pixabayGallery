@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wengo500/pixabayGallery.git/static/css/main.29dc1125.chunk.css",
+    "main.js": "/Wengo500/pixabayGallery.git/static/js/main.f7a32af1.chunk.js",
+    "main.js.map": "/Wengo500/pixabayGallery.git/static/js/main.f7a32af1.chunk.js.map",
+    "runtime-main.js": "/Wengo500/pixabayGallery.git/static/js/runtime-main.7ddb2b84.js",
+    "runtime-main.js.map": "/Wengo500/pixabayGallery.git/static/js/runtime-main.7ddb2b84.js.map",
+    "static/js/2.3a0e6c7d.chunk.js": "/Wengo500/pixabayGallery.git/static/js/2.3a0e6c7d.chunk.js",
+    "static/js/2.3a0e6c7d.chunk.js.map": "/Wengo500/pixabayGallery.git/static/js/2.3a0e6c7d.chunk.js.map",
+    "static/js/3.1db166f5.chunk.js": "/Wengo500/pixabayGallery.git/static/js/3.1db166f5.chunk.js",
+    "static/js/3.1db166f5.chunk.js.map": "/Wengo500/pixabayGallery.git/static/js/3.1db166f5.chunk.js.map",
+    "index.html": "/Wengo500/pixabayGallery.git/index.html",
+    "static/css/main.29dc1125.chunk.css.map": "/Wengo500/pixabayGallery.git/static/css/main.29dc1125.chunk.css.map",
+    "static/js/2.3a0e6c7d.chunk.js.LICENSE.txt": "/Wengo500/pixabayGallery.git/static/js/2.3a0e6c7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ddb2b84.js",
+    "static/js/2.3a0e6c7d.chunk.js",
+    "static/css/main.29dc1125.chunk.css",
+    "static/js/main.f7a32af1.chunk.js"
+  ]
+}
