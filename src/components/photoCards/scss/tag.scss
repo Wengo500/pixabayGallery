@@ -1,0 +1,12 @@
+.tag {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    margin: 0 2.5px 10px 0;
+    padding: 2px 15px;
+    color: white;
+    background: #06a1b9;
+    border-radius: 20px;
+    &:hover {
+        background: #0680b9;
+    }
+}
